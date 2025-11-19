@@ -1,0 +1,16 @@
+curl 'https://clerk.seedloaf.com/v1/client/sessions/sess_35W2sUtua1a3iO1u6sfLjDeSNfw/touch?__clerk_api_version=2025-11-10&_clerk_js_version=5.109.0' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: application/x-www-form-urlencoded' \
+  -b '__client=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImNsaWVudF8zNVcycXdFVndXeEZQTGpTV1B5NW9seDByRUciLCJyb3RhdGluZ190b2tlbiI6ImM5bTRpMnN3NXIwN3VmN2o1OHByM2hzemQ3M3NmOTg2bHU3MW1iMW0ifQ.q9vKBaGCvHGQVJJJrgKkmWUDwgmO5Hjo6-A6X7m3E0m_Aaa-NOEyHAguDk-iD1YOAKPH-f59F9GhU4AMmhYSImsKGn3jKD_b-snZzquYz0M2Yyw-JxgdbqlRzP6fSbpVeyZ9pRtfKz6R9oxiisJag-axCR2muqMynYbJv1GBsV26t5585v4Lo1PV5ZmPVCHGNuHH9dTSgwo_0TYnxKuFTXx3oaqcI92huVU41_-B-tf0Jub5SRLqHwhe7RGhsek8TPMK9y1-L6XD8nhRvLzjSmw-f20NOT5FgQTrzG-vqW3t9D8vXhgJYBtBomdjysSXXHcLndqvRm9mXl8YT14k7g; __client_uat=1763211713; __client_uat_HYAqBJv2=1763211713; _pubcid=280f64dd-e6cf-4716-8840-0b166943d6bc; _pubcid_cst=znv0HA%3D%3D; _nitroID=2b7d12b022e86cdc0eb9cadfa60f2555; ncmp.domain=seedloaf.com; cto_bidid=wO7mpl9DOWRBdENJZ05iaW9EUkFINFFGUWhvWmZwWlQlMkJZalBFQ3UxckNrdnlZc1NWVE11N2ZuY1VHTGtUQnBZWEpMTnBzOVdrOWNtZ3hoamh1WGVIV1plNFlqNE9BZzJocWlsYXQxNzVrYTFQNTNBJTNE; _cfuvid=HLjEZ6h9ffOra9ggQYdEVIqLKFYzwyy6uJIOC.QeeCY-1763472253675-0.0.1.1-604800000; cto_bundle=DIs8R19aQlBjcVBWMU1UckhhajclMkZDRkpZSE9PdDgzJTJGenB3Z0tsWUwwSXIlMkJaMHlqd28lMkJoVTFVSXJxQnhnUkhKMWRwYlJXJTJCcEJ4aTVnQ1JRNHg5cWwzdjJLaVdVVXJFOGMlMkZMajQxdDlURUVPa2NwNWw2WlFaejdCVk05dDR2UEg2d0ZsVW5KM1RoUENiJTJCUlJqSFE3RlVLeUxRNUVPMFZCdXYwMU8lMkI2NFJsTGNrS05nJTNE; __cf_bm=SYWkpuOMU5UYRtlWEeflqhG_0ntG.dQfHM6Jj4.h8MY-1763511465-1.0.1.1-kt0re7ULhdy2DovlrzKbfpWOp1J_8FyVPoh7W6qJkDxDkpi6hnzT.8OUekS45SuKgjmEZ1NkdQQzrdjNJjAm6QhOpBn1I9V_IWvd7qOUooM; cf_clearance=9Dfw6zg2KuOYbrwP38boJIj5YY0avweRf8Th6ELtatw-1763511472-1.2.1.1-E3pbJ01f_PuEtDLu5KJv0zFRuaEiCFb93Q386E77JIqNo7USiZV5k6N9pb.kwNp2PqeLzbziZtRFksqSFgsz4V6Wi9KBe7DMAzGvMvkzIJQxmmnjC5c2o1EE4OieQF87g0x8S9e3riKGUka797vRGc9jU6taqiD23btxnhX2_2F7ggr0mALK0XE0_soj7Cw66HKx0WJmP4hx_UhpmcKuA53UzOL1H8FRBRyhS8Q7chI; ph_phc_B6D2iFLwOjJhVAxZ4FTLjSal8aQ8YDaIa7dIsVZTH3x_posthog=%7B%22distinct_id%22%3A%22user_2xcO9FW7zN1afVpb0VcAUJyKCPb%22%2C%22%24sesid%22%3A%5B1763511539609%2C%22019a9979-89d9-7aa5-874f-b47225bb9802%22%2C1763511470553%5D%2C%22%24epp%22%3Atrue%2C%22%24initial_person_info%22%3A%7B%22r%22%3A%22%24direct%22%2C%22u%22%3A%22https%3A%2F%2Fseedloaf.com%2F%22%7D%7D' \
+  -H 'origin: https://seedloaf.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://seedloaf.com/' \
+  -H 'sec-ch-ua: "Chromium";v="142", "Google Chrome";v="142", "Not_A Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36' \
+  --data-raw 'active_organization_id='
